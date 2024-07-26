@@ -1,2 +1,2 @@
 # Python
-Collection of Python Program
+Collection of Python Program from basic to advance
