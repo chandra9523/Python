@@ -7,8 +7,10 @@ Can you find the area of the pond?
 
 def area_pond(radius):
     area = (22/7)*radius**2
+    total_amount_water = 1.4*area
     
     print(f"Area of pond = {area}")
+    print(f"Total amount of water in Pond  = {total_amount_water}")
 
 radius = float(input("Enter Radius of Pond = "))
 
